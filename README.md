@@ -21,7 +21,7 @@
 
 - **[Chaos Reviewer](https://github.com/amacharla15/CalhacksChaosReviewer)**  
   Fetch.ai-based code-review agent that condenses noisy build/test logs into one actionable fix summary + one “brain-rot” quip.  
-  → ~7.2K interactions in 24 hours at Cal Hacks 12.0 (2nd place, Fetch.ai track).
+  → ~7.2K interactions in 24 hours at Cal Hacks 12.0 (2nd most used agent, Fetch.ai track).
 
 - **[University Marketplace](https://github.com/amacharla15/University-Marketplace)**  
   Django + PostgreSQL marketplace for campus buyers/sellers, containerized with Docker and deployed on GCP.  
