@@ -1,5 +1,7 @@
 # Hi, I'm Akshith 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=amacharla15&label=Profile%20views&color=red&style=for-the-badge)
+
 **ML / AI Infra + Backend Engineer**
 
 - M.S. Computer Science @ CSU Chico — 4.0 GPA (expected Dec 2026)  
