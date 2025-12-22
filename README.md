@@ -1,6 +1,6 @@
 # Hi, I'm Akshith 👋
 
-**ML / AI Infra + Backend Engineer**
+**Backend Developer & ML/AI**
 
 - M.S. Computer Science @ CSU Chico — 4.0 GPA (expected Dec 2026)  
 - Ex-Programmer Analyst (Django) @ Cognizant (2.8+ years)  
