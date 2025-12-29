@@ -30,26 +30,6 @@
 - **[Hardware-Aware Training Time & Throughput Prediction](https://github.com/amacharla15/Hardware-Aware-Training-Time-Throughput-Prediction)**  
   Empirical job-time / throughput estimator for CIFAR-10 CNNs on an NVIDIA A100.  
   → Runs CNN grids on A100 and trains a dense ANN regressor to predict time/epoch and images/sec from configuration features.
-
----
-
-## Side Projects
-
-- **[Audio Classification CNN](https://github.com/amacharla15/AudioClassificationCNN)**  
-  Deep audio classifier for environmental sounds using PyTorch, Mel Spectrograms, and a ResNet-style CNN.  
-  → FastAPI + Modal GPU inference with a Next.js dashboard for uploads, confidence scores, and feature-map visualizations.
-
-- **[Handwriting Tutor (Camera + Computer Vision)](https://github.com/amacharla15/handwritingTutor-Computervision)**  
-  Real-time handwriting tutor using webcam + raw computer vision (React + Vite, Canvas 2D).  
-  → 4×5 grid of 64×64 cells with heuristic / TF.js recognizer that gives micro-coaching tips on digit shapes.
-
-- **[Interactive Chess (SSR/MPA Django Game)](https://github.com/amacharla15/CSCI-598---Web-Development-Using-Python-and-Django)**  
-  Single-player chess game implemented as a Django MPA with per-user state and Bootstrap UI.  
-  → Server-side move handling, auth (join/login/logout), and Dockerized deployment on a GCP VM.
-
-- **More in progress…**  
-  Additional ML infra + developer tooling experiments (profilers, dashboards, agents).
-
 ---
 
 ## Achievements
@@ -74,8 +54,3 @@
 
 ---
 
-## Links
-
-- 📫 Email: amacharla@csuchico.edu  
-- 💼 LinkedIn: https://www.linkedin.com/in/akshith-macharla-/  
-- 🧑‍💻 GitHub: https://github.com/amacharla15
