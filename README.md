@@ -5,13 +5,8 @@
 - M.S. Computer Science @ CSU Chico — 4.0 GPA (expected Dec 2026)  
 - Ex-Programmer Analyst (Django) @ Cognizant (2.8+ years)  
 - Focused on ML systems, hardware-aware training, agents, and developer tooling
-
----
-
-## About Me
-
 - Strong backend experience with Django/DRF, PostgreSQL, Redis, Docker, GCP.  
-- Interested in ML, AI infra, GPU performance, and developer experience tools.  
+- Interested in ML, AI, GPU performance, and developer experience tools.  
 - Actively building agents, log-triage tools, and GPU-aware training pipelines.  
 - Exploring hackathons, open-source contributions, and applied AI projects.
 
