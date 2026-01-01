@@ -17,20 +17,6 @@
 
 ---
 
-## Open Source / Featured Projects
-
-- **[Chaos Reviewer](https://github.com/amacharla15/CalhacksChaosReviewer)**  
-  Fetch.ai-based code-review agent that condenses noisy build/test logs into one actionable fix summary + one “brain-rot” quip.  
-  → ~7.2K interactions in 24 hours at Cal Hacks 12.0 (2nd most used agent, Fetch.ai track).
-
-- **[University Marketplace](https://github.com/amacharla15/University-Marketplace)**  
-  Django + PostgreSQL marketplace for campus buyers/sellers, containerized with Docker and deployed on GCP.  
-  → Email-verified accounts, chat, appointment scheduling, listing management; 100+ users in first 24 hours.
-
-- **[Hardware-Aware Training Time & Throughput Prediction](https://github.com/amacharla15/Hardware-Aware-Training-Time-Throughput-Prediction)**  
-  Empirical job-time / throughput estimator for CIFAR-10 CNNs on an NVIDIA A100.  
-  → Runs CNN grids on A100 and trains a dense ANN regressor to predict time/epoch and images/sec from configuration features.
----
 
 ## Achievements
 
