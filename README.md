@@ -3,7 +3,7 @@
 **Backend Engineer • ML/AI Systems**
 
 - M.S. Computer Science @ CSU Chico — **4.0 GPA** (expected **Dec 2026**)
-- Ex–Programmer Analyst / Developer @ Cognizant (**2.8+ years**) — **Java Spring Boot**, **Dynatrace**, **AWS**, production support
+- Ex–Associate Software Engieer @ Cognizant (**2.8+ years**) — **Java Spring Boot**, **Dynatrace**, **AWS**, production support
 - Focused on **ML systems**, **hardware-aware training**, **agents**, and **developer tooling**
 - Built backend systems with **Django/DRF**, **PostgreSQL**, **Docker**, and cloud fundamentals (**AWS/GCP**)
 - Interested in **GPU performance**, **reliability**, and **developer experience** tooling
