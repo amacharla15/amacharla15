@@ -14,12 +14,10 @@
 - [Task Platform (Distributed Job Queue)](https://github.com/amacharla15/EventTaskPlatform) (FastAPI - RabbitMQ - Postgres - Redis - Prometheus/Grafana - Docker)
 - [University Marketplace](https://github.com/amacharla15/University-Marketplace) (Django - PostgreSQL - Docker - GCP)
 - [CalhacksChaosReviewer](https://github.com/amacharla15/CalhacksChaosReviewer) (Chaos Reviewer - AI agent) (Fetch.ai track - Cal Hacks)
-- [Portfolio](https://akshithmacharla.vercel.app/) (Personal website)
 - [handwritingTutor-Computervision](https://github.com/amacharla15/handwritingTutor-Computervision) (OpenCV / Computer Vision)
 
 ## Achievements
 - Built Chaos Reviewer — AI agent (Fetch.ai track @ Cal Hacks) — ~7.2K interactions
-- Shipped University Marketplace — 100+ users in 24 hours at launch
 - AWS Certified Developer – Associate
 - AWS Machine Learning Foundations
 - Udacity — Introducing Generative AI with AWS
