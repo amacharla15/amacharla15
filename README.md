@@ -1,9 +1,7 @@
 # Akshith Macharla
 
 ## About Me
-- M.S. Computer Science student at California State University, Chico (GPA 4.0). Previously an Associate Software Engineer at Cognizant.
-- I build backend systems, developer tools, and applied ML/AI projects (RAG, performance prediction, distributed queues, observability).
-- Cognizant (production backend/support): improved API responsiveness by ~20% via DB query optimization + payload tuning (validated in Dynatrace); sustained 99.9% uptime while resolving 100+ incidents.
+- M.S. Computer Science student at California State University, Chico (GPA 4.0).
 - Always exploring bold, build-and-ship projects that blend systems + ML.
 
 ## Open Source Contributions
