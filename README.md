@@ -10,7 +10,7 @@
 ## Side Projects
 - [Hardware-Aware Training Time & Throughput Prediction](https://github.com/amacharla15/Hardware-Aware-Training-Time-Throughput-Prediction) (TensorFlow/Keras - NVIDIA A100 - CIFAR-10)
 - [RAGopsCopilot](https://github.com/amacharla15/RAGopsCopilot) (LangChain - LangGraph - Gemini API - Qdrant - FastAPI - Next.js)
-- [ResumeRAG](https://github.com/amacharla15/ResumeRAG) (Spring Boot - Java 21 - Postgres - Flyway)
+- [ResumeRAG](https://github.com/amacharla15/ResumeRAG) (Spring Boot - Java 21 - Postgres - Flyway - Ollama)
 - [Task Platform (Distributed Job Queue)](https://github.com/amacharla15/EventTaskPlatform) (FastAPI - RabbitMQ - Postgres - Redis - Prometheus/Grafana - Docker)
 - [University Marketplace](https://github.com/amacharla15/University-Marketplace) (Django - PostgreSQL - Docker - GCP)
 - [CalhacksChaosReviewer](https://github.com/amacharla15/CalhacksChaosReviewer) (Chaos Reviewer - AI agent) (Fetch.ai track - Cal Hacks)
