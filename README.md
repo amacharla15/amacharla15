@@ -1,9 +1,3 @@
-# Akshith Macharla
-
-## About Me
-- M.S. Computer Science student at California State University, Chico (GPA 4.0).
-- Always exploring bold, build-and-ship projects that blend systems + ML.
-
 ## Open Source Contributions
 - [Mission-Love-One-Another (Chico Love event website)](https://github.com/Mission-Love-One-Another/mloa) (Full-stack & Backend Engineer)
 
@@ -30,7 +24,3 @@
 - **Systems & Observability:** Distributed Systems, REST APIs, Prometheus, Grafana
 - **Testing:** Pytest, Django TestCase, JUnit, Mockito
 
-## 📫 Connect
-Always open to creative ideas and bold opportunities. Let's connect!
-
-[LinkedIn](https://www.linkedin.com/in/akshith-macharla-) | [GitHub](https://github.com/amacharla15) | [Portfolio](https://akshithmacharla.vercel.app/)
