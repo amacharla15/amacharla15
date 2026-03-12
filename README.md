@@ -4,5 +4,3 @@
 - AWS Machine Learning Foundations
 - Udacity — Introducing Generative AI with AWS
 - Meta Backend Developer (Coursera)
-
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=amacharla15)](https://git.io/streak-stats)
